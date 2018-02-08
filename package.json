@@ -1,0 +1,14 @@
+{
+  "name": "powercouch-2000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=8.9.4"
+  },
+  "author": "Zack Harley",
+  "license": "MIT"
+}
